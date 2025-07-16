@@ -24,4 +24,4 @@ SPECIALTIES
 
 ## Backend
 
-- [Learning C#](https://github.com/rafaelxoliolab/NET.CSharp.Learning)
+- [Learning C#](https://github.com/rafaelxoliolab/RX.NET.CSharp.Learning)
