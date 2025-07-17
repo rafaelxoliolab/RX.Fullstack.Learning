@@ -24,4 +24,8 @@ SPECIALTIES
 
 ## Backend
 
+### Programming Languages
 - [Learning C#](https://github.com/rafaelxoliolab/RX.NET.CSharp.Learning)
+  
+### Databases
+- [SQL Server](https://github.com/rafaelxoliolab/RX.SQL.Learning)
